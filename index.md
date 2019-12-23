@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/chrisYuchen/chrisYuchen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+个人资料
+籍    贯：重庆市铜梁县	
+出生年月：1992.06.03
+年    龄：27岁		
+联系电话：17347895365  
+电子邮箱：chriswangrui@foxmail.com                	
+联系地址：重庆市沙坪坝		求职意向：软件研发
+工作经验：5年				期望薪资：18K
+政治面貌：团员
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+教育背景
+2011年-2015年       重庆科技学院      本科      计算机科学与技术
 
-### Markdown
+工作经历
+2015年6月至今  重庆扬讯技术股份有限公司   java研发工程师
+工作内容：
+1、完成软件系统代码的实现，编写代码注释和开发文档。
+2、辅助进行系统的功能定义，程序设计。
+3、根据设计文档或需求说明完成代码编写、调试、测试和维护。
+4、分析并解决软件开发过程中的问题。
+5、协助测试工程师制定测试计划、定位发现的问题。
+6、配合项目经理完成相关任务目标。
+项目经历
+2019.6 - 2019.9  指挥调度系统
+项目描述：
+该项目是用于对智能分析系统产生的问题进行升级，甄别，处理，在处理问题的同时进行任务的派发以及人员的调度，实现整个业务流程的协同工作。主要模块包括，任务管理、问题管理、配置管理等。
+主要职责：
+主要负责配置管理模块的设计与开发、参与任务管理模块的设计:1,参与技术选型讨论.2,跟踪项目的研发进度.3,负责技术难点的攻克。相关技术，前端使用：Html，css，js，jquery，GIS等。后端设计是基于dubbo，zookeeper分布式微服务架构进行开发，主要用到mybatis，activemq等。数据库使用：mysql。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2018.12 - 2019.4  智眼
+项目描述：
+该项目主要包括三个模块，算法分析模块，视频融控模块以及应用模块。主要业务流程，现场接入摄像头在融控模块进行摄像头相关信息配置，融控模块接入视频并调用算法进行分析，将分析结果推送至应用模块，应用模块根据业务规则把分析数据进行相关分类，处理，统计同时产生报警。难点1，100多路摄像头经过视频分析之后推送分析结果到应用平台，高并发问题的处理。难点2,应用平台和视频平台的接口联调。
+主要职责：
+主要负责应用模块的研发，相关功能有，人员管理，权限管理，gis地图，问题统计，报警推送等。使用的相关技术，前端：vue，js，html，css，jquery、qui。后端:springboot，shiro，mybatis。数据库：mysql，redis。部署相关：docker镜像部署。
 
-```markdown
-Syntax highlighted code block
+职业技能
+基础：理解面向对象开发、理解常用数据结构、理解JVM、理解JAVA多线程
+数据库：MySql5.7.x、Redis、Oracle（使用较少）
+服务器：tomcat7、nginx
+前  端：html、js、css、jquery、vue2.x
+框  架： 熟悉Dubbo 、Zookeeper3.4.10；
+熟悉SpringMVC、Springboot、Spring，了解SpringCloud；
+熟悉Mybatis；
+了解并使用solr4.7；
+中间件：熟悉ActiveMQ；
+补充：熟悉微信小程序开发流程、sql分析优化、linux基本使用、了解docker的基本使用等。
 
-# Header 1
-## Header 2
-### Header 3
+自我评价
+	本人有5年工作经验，主要从事java研发，责任心强，对技术敏感。
+座右铭：你不相信，并不代表它不存在，别拿无知当借口。
+工作习惯：1、干净的代码风格、良好的测试意识；
+2、良好的逻辑思维、严谨工作习惯，工作积极主动，主动发现和解决问题，主动改进，彻底解决问题;
+3、沟通表达能力好，学习能力强，具备强烈的责任心和团队合作能力；
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chrisYuchen/chrisYuchen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
